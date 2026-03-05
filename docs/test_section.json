@@ -1,0 +1,9 @@
+{
+  "preset": "gov_document",
+  "content": [
+    { "type": "section", "text": "모니터링 개요" },
+    { "type": "bullet", "level": "li1", "text": "일시: 2026. 3. 9.(월) ~ 3. 13.(금)" },
+    { "type": "section", "text": "기관별 방문 일정" },
+    { "type": "bullet", "level": "li1", "text": "방문 일정은 별도 공문 참조" }
+  ]
+}

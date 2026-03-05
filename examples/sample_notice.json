@@ -1,0 +1,64 @@
+{
+  "preset": "gov_document",
+  "preset_options": {
+    "font_body": "휴먼명조",
+    "font_table": "맑은 고딕",
+    "size_title": 15,
+    "size_body": 13,
+    "size_table": 10,
+    "line_spacing": 160,
+    "margin": {"top": 10, "bottom": 10, "left": 20, "right": 20},
+    "cell_margin": {"lr": 3, "tb": 2}
+  },
+  "content": [
+    {"type": "title", "text": "2026년도 모니터링 실시 안내"},
+    {"type": "paragraph", "text": ""},
+
+    {"type": "section_heading", "level": 1, "num": "1", "text": "추진 배경"},
+    {"type": "bullet", "level": 1, "text": "정부 정책 이행 점검 및 현장 모니터링 강화"},
+    {"type": "bullet", "level": 1, "text": "관련 법령에 따른 정기 점검 의무 이행"},
+    {"type": "bullet", "level": 2, "text": "「공공기관 운영에 관한 법률」 제xx조"},
+    {"type": "bullet", "level": 2, "text": "「정부업무 평가 기본법」 제xx조"},
+
+    {"type": "section_heading", "level": 1, "num": "2", "text": "모니터링 개요"},
+    {"type": "sub_heading", "text": "점검 대상 및 기간"},
+    {"type": "table", "col_widths_mm": [25, 145],
+     "header": ["항목", "내용"],
+     "rows": [
+       ["대상", "전국 17개 시·도 산하 공공기관"],
+       ["기간", "2026. 3. 10.(화) ~ 3. 31.(화)"],
+       ["방법", "현장 방문 점검 및 서면 점검 병행"],
+       ["점검인력", "본부 및 지역본부 합동 점검단"]
+     ]},
+
+    {"type": "sub_heading", "text": "추진 일정"},
+    {"type": "sub_item", "num": "가", "text": "사전 준비: 3. 1.(일) ~ 3. 9.(월)"},
+    {"type": "sub_item", "num": "나", "text": "현장 점검: 3. 10.(화) ~ 3. 31.(화)"},
+    {"type": "sub_item", "num": "다", "text": "결과 보고: 4. 1.(수) ~ 4. 10.(금)"},
+
+    {"type": "section_heading", "level": 1, "num": "3", "text": "점검 항목"},
+    {"type": "table", "col_widths_mm": [10, 40, 80, 40],
+     "header": ["No.", "점검 분야", "세부 점검 항목", "비고"],
+     "rows": [
+       ["1", "안전관리", "소방시설 점검 및 관리 현황", "필수"],
+       ["2", "안전관리", "비상대피 훈련 실시 여부", "필수"],
+       ["3", "시설관리", "노후시설 보수·교체 현황", "선택"],
+       ["4", "운영관리", "운영 매뉴얼 구비 여부", "필수"],
+       ["5", "운영관리", "인력 배치 적정성", "선택"]
+     ]},
+
+    {"type": "section_heading", "level": 1, "num": "4", "text": "협조 사항"},
+    {"type": "bullet", "level": 1, "text": "점검 대상기관은 자체점검표를 사전에 작성하여 제출"},
+    {"type": "bullet", "level": 1, "text": "현장 점검 시 담당자 입회 필수"},
+    {"type": "bullet", "level": 1, "text": "관련 서류 및 증빙자료 사전 준비"},
+
+    {"type": "note", "text": "자체점검표는 반드시 3월 4일(수)까지 제출하여야 합니다."},
+
+    {"type": "text_box", "text": "※ 자체점검표는 반드시 3월 4일(수)까지 제출하여야 합니다.",
+     "border_color": "C00000", "bg_color": "FFF2CC", "font_bold": true, "padding_mm": 4},
+
+    {"type": "paragraph", "text": ""},
+    {"type": "paragraph", "text": "붙임  1. 모니터링 실시계획 1부.", "align": "LEFT", "bold": false},
+    {"type": "paragraph", "text": "      2. 자체점검표 서식 1부.  끝.", "align": "LEFT", "bold": false}
+  ]
+}

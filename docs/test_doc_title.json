@@ -1,0 +1,6 @@
+{
+  "preset": "gov_document",
+  "content": [
+    { "type": "doc_title", "text": "모니터링 개요" }
+  ]
+}

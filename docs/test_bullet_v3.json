@@ -1,0 +1,22 @@
+{
+  "preset": "gov_document",
+  "content": [
+    { "type": "section", "text": "불릿 5단계 테스트" },
+    { "type": "bullet", "level": "li1", "text": "동그라미 항목 (li1, \\uf06d 휴먼명조 15pt)" },
+    { "type": "bullet", "level": "li1", "text": "동그라미 두 번째 (li1)" },
+    { "type": "bullet", "level": "li2", "text": "대시 항목 (li2)" },
+    { "type": "bullet", "level": "li2", "text": "대시 두 번째 (li2)" },
+    { "type": "bullet", "level": "li3", "text": "중점 항목 (li3)" },
+    { "type": "bullet", "level": "li3", "text": "중점 두 번째 (li3)" },
+    { "type": "bullet", "level": "li4", "text": "숫자 자동증가 첫 번째 (li4)" },
+    { "type": "bullet", "level": "li5", "text": "한글 자동증가 가 (li5)" },
+    { "type": "bullet", "level": "li5", "text": "한글 자동증가 나 (li5)" },
+    { "type": "bullet", "level": "li4", "text": "숫자 자동증가 두 번째 (li4)" },
+    { "type": "bullet", "level": "li5", "text": "한글 리셋 가 (li5)" },
+    { "type": "bullet", "level": "li5", "text": "한글 나 (li5)" },
+    { "type": "bullet", "level": "li5", "text": "한글 다 (li5)" },
+    { "type": "section", "text": "두 번째 섹션" },
+    { "type": "bullet", "level": "li4", "text": "섹션 바뀌면 리셋 (li4)" },
+    { "type": "bullet", "level": "li5", "text": "새 섹션 한글 가 (li5)" }
+  ]
+}

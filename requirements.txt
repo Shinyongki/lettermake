@@ -1,0 +1,10 @@
+# hwpx_generator dependencies
+#
+# Core: No dependencies beyond Python 3.8+ standard library.
+# The library uses only built-in modules: zipfile, xml, struct, dataclasses, etc.
+#
+# Optional dependencies (for enhanced functionality):
+# lxml          # Faster XML parsing (optional; falls back to xml.etree.ElementTree)
+#
+# Development / testing dependencies:
+# pytest        # Test runner (optional; tests also run standalone with python -m)

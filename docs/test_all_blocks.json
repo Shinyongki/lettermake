@@ -1,0 +1,12 @@
+{
+  "preset": "gov_document",
+  "content": [
+    { "type": "doc_title", "text": "모니터링 개요" },
+    { "type": "doc_purpose", "text": "신규 수행기관의 사업 운영 적정성을 확보하고, 2026년 개정 지침의 이행 여부 확인 및 현장 모니터링을 통한 운영 안정화 지원함" },
+    { "type": "section", "text": "모니터링 개요" },
+    { "type": "bullet", "level": "li1", "text": "일시: 2026. 3. 9.(월) ~ 3. 13.(금)" },
+    { "type": "bullet", "level": "li1", "text": "대상: 2026년 신규 지정 지역수행기관 5개소" },
+    { "type": "section", "text": "기관별 방문 일정" },
+    { "type": "bullet", "level": "li1", "text": "방문 일정은 별도 공문 참조" }
+  ]
+}

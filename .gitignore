@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+
+# 생성된 HWPX 출력물
+*.hwpx
+# 템플릿은 예외
+!gonggong_hwpxskills-main/gonggong_hwpxskills-main/assets/report-template.hwpx
+
+# Claude 로컬 설정
+.claude/
